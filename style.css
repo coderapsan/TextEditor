@@ -1,0 +1,55 @@
+.body{
+  margin-bottom: 100px;
+}
+.editable{
+  border:2px solid red;
+  background-color: bisque;
+  height:100px;
+ 
+
+}
+.title{
+  color:red;
+  text-align: center;
+  
+
+}
+p{
+  justify-content: center;
+  text-align: justify;
+  text-justify: inter-word;
+}
+ Button{
+   margin:3px;
+  border-radius:20px;
+ }
+
+ .commentButton:hover{
+   background-color: green;
+   color:white;
+
+ }
+ .cancelButton:hover{
+   background-color: red;
+   text-emphasis-color: white;}
+   .selectedText{
+     background-color: green;
+     color: white;
+     padding:5px;
+   }
+
+   .commentText{
+     background-color: brown;
+     color: white;
+     padding:5px;
+     padding-bottom: -3PX;
+   }
+
+   .comment{
+     margin-bottom: 200px;
+     
+   }
+
+  
+
+   
